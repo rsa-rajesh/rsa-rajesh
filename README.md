@@ -32,7 +32,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-adhikari-045892147/)
 [![Twitter](https://img.shields.io/twitter/follow/android_rajesh?logo=Twitter&style=for-the-badge)](https://twitter.com/android_rajesh)
-[![stackoverflow](https://img.shields.io/badge/Stackoverflow-333333?style=for-the-badge&logo=stackoverflow&logoColor=white%22)]([https://twitter.com/android_rajesh](https://stackoverflow.com/users/13455500/rsa-rajesh))
+[![stackoverflow](https://img.shields.io/badge/Stackoverflow-333333?style=for-the-badge&logo=stackoverflow&style=for-the-badge)]([https://twitter.com/android_rajesh](https://stackoverflow.com/users/13455500/rsa-rajesh))
 
 
 ## 💻 Tech Stack
