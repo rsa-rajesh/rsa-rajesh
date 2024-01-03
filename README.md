@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Rajesh Adhikari</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsa-rajesh&label=Views&color=blue&style=plastic&style=for-the-badge" alt="rsa-rajesh" /> </p>
 
 
 # 💫 About Me :
