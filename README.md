@@ -32,6 +32,9 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-adhikari-045892147/)
 [![Twitter](https://img.shields.io/twitter/follow/android_rajesh?logo=Twitter&style=for-the-badge)](https://twitter.com/android_rajesh)
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-232333?style=for-the-badge&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F13455500%2Frsa-rajesh)](https://stackoverflow.com/users/13455500/rsa-rajesh)
+
+
 
 
 ## 💻 Tech Stack
