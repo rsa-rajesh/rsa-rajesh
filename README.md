@@ -21,6 +21,7 @@
 -   Android Developer
 -   Feb 2018 - Aug 2021 · 3 yrs 7 mos Full-time
 -   Aug 2021 - Present · Part-time
+  
    Heartsun Technology
 -   Android Developer
 -   Aug 2021 - Jun 2023 · 1 yr 11 mos Full-time
