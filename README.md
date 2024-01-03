@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Rajesh Adhikari</h1>
@@ -43,7 +43,8 @@
 
 
 ## 🛒 Apps on Store
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7703305844118303242) [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/frontier-crypto-defi-wallet/id1482380988)
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ebibaha.ebibaha) 
+[![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/au/app/emmcare/id6468196731)
 
 ## 🎵 Music apps I use
  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
